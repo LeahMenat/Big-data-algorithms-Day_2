@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\SortUnitTest.dll
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\SortUnitTest.pdb
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Sorts.exe
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Sorts.pdb
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Sorts.exe.config
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\obj\Debug\SortUnitTest.csprojAssemblyReference.cache
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\obj\Debug\SortUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\obj\Debug\SortUnitTest.csproj.CopyComplete
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\obj\Debug\SortUnitTest.dll
+C:\Users\User\Desktop\nso\Big data algorithms\Day2\Sorts\SortUnitTest\obj\Debug\SortUnitTest.pdb
